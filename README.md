@@ -4,11 +4,18 @@ This project aims to predict the sold prices of Tesla vehicles sold between May 
 
 ## Table of Contents
 
+- [Overview](#overview)
+- [Data](#data)
+- [Features](#features)
 - [Set Up](#set-up)
-- [Data Preprocessing & Feature Engineering](#data-preprocessing--feature-engineering)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Model Preparation](#model-preparation)
-- [Predictive Models](#predictive-models)
+
+## Overview
+
+## Data
+
+## Features
+
+Highlight the key features and functionalities of the project. Include a bullet-point list or brief explanations of the main features implemented in this branch.
 
 ## Set Up
 
@@ -25,4 +32,5 @@ import xgboost as xgb
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import mean_absolute_error
+
 
